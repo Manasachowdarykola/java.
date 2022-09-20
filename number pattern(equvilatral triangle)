@@ -1,4 +1,5 @@
-public class pattern {
+ import java.io.*;
+ public class pattern {
   public static void main(String[] args) {
     int rows = 5, coef = 1;
     for(int i = 0; i < rows; i++) {
